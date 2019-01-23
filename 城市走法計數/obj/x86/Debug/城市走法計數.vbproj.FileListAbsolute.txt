@@ -1,0 +1,9 @@
+H:\城市走法計數\城市走法計數\bin\Debug\城市走法計數.exe
+H:\城市走法計數\城市走法計數\bin\Debug\城市走法計數.pdb
+H:\城市走法計數\城市走法計數\bin\Debug\城市走法計數.xml
+H:\城市走法計數\城市走法計數\obj\x86\Debug\城市走法計數.Form1.resources
+H:\城市走法計數\城市走法計數\obj\x86\Debug\城市走法計數.Resources.resources
+H:\城市走法計數\城市走法計數\obj\x86\Debug\城市走法計數.vbproj.GenerateResource.Cache
+H:\城市走法計數\城市走法計數\obj\x86\Debug\城市走法計數.exe
+H:\城市走法計數\城市走法計數\obj\x86\Debug\城市走法計數.xml
+H:\城市走法計數\城市走法計數\obj\x86\Debug\城市走法計數.pdb
